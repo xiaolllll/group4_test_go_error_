@@ -1,0 +1,1 @@
+# group4_test_go_error_
